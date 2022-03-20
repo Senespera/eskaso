@@ -1,0 +1,1 @@
+if y>540 {instance_destroy();with(ULPfate){alarm_set(1,90);alarm_set(0,120)}}

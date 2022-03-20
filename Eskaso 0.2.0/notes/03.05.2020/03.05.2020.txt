@@ -1,0 +1,30 @@
+Not feeling too cool, but it turns out I've got all my sprites.
+Once again,
+1. Blink White when hit
+2. Finish Game Over sequence (sprites and sounds)
+
+15:11. Blink done. I guess with #2 done I'll... move onto the next level...?
+Woah. Hold yo horses.
+
+15:16. You know what? My Resoulte Kalim kinda looks like shit.
+I'll just use soopk5 instead. Duplicate it and see how it sticks
+
+15:27. Needs upscaling. I call upon you, Paint.net.
+
+15:51. Spritework done, onto the sounds.
+16:05. Wow, I... I think I may be done for now.
+It's the strangest feeling every time.
+Next time, I'll be drawing an inside of a bus and...
+
+Wait. I still need SFX for CP, ANH and BP
+And I haven't even begun implementing OPF!
+Not to mention the title card and tutorial cards...
+
+1. Find and/or make SFX for ANH, CP and BP
+2. Make tutorial cards
+3. Make the title card
+4. Create the Pause Menu (Continue, OPF, Quit)
+5. OPF
+6. Figure out saving and implement autosaving at the start of each room.
+
+It's the strangest feeling every time.

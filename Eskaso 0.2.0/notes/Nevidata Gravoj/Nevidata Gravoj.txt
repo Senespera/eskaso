@@ -1,0 +1,25 @@
+3 sectors, each with 4 enemy types... except Power, which has 3.
+I know that I should prioritize learning curve over such superficial things, but...
+Oh, and don't forget that speed is important! 
+Throwing a Nice Guy into the second level right off the bat? Too much information to hold at that point.
+
+...Alternatively, I could throw in a fifth enemy type in Discovery.
+I am extremely apprehensive about such extensive measures, though.
+And yet... information overload would kind of help the aesthetic. Fear. Discovery is scary. Information is scary.
+The problem remains, though: Visual? Mechanic? Name? Effort...?
+
+According to the Principle of Limited Masoshism, I should make this type the simplest one yet.
+Pursuers bump, Towers damage, Safety Nets slow down, Nice Guys do the first two and maybe even the third.
+In other words, it's a perfect opportunity to introduce something actually new. Yes. New things are scary.
+
+A scary flying monster...? A teleporting eye...? Nurturers...? Yeah, that last one would be a nice callback.
+What ties all three stages together? Allies. It only makes sense to connect the two.
+
+Draft 1: "Obsession". Creepily wraps its arm around an ally from behind, immobilizing them. An "improved" Nurturer, whose emotional chip went haywire.
+The allies are too disturbed to even look at it, let alone shake it off. Vi will still be able to break free in case Kalim is drained, though.
+The only way to get rid of it is to hit an ally with a wave of energy. 
+So, throw them a PINK or something. Give Obsession's eyes a pink glow to serve as a hint. Maybe show it sucking out PINK.
+The ally will then shake it off in a single frame, but the thing will return soon after, circling the screen.
+The player's best bet is to continuously cue it outside the screen before it finds its target.
+Not even YELLOW is a permanent solution, though. Once it appears, it stays for the remainder of the level. Obsession never truly goes away.
+Easy enough to program, but 16+~4(+cape if included) frames might be a bit much- oh, who am I kidding? There's no way I can come up with anything better.

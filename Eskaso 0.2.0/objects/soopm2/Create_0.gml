@@ -1,0 +1,1 @@
+if book.i==27 alarm_set(0,120);

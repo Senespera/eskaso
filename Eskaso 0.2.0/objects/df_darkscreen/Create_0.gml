@@ -1,0 +1,9 @@
+hit=false;
+image_alpha=0;
+textspeed=0.1;
+textcount=0;
+cd=false;
+prevtext=" ";
+wpad=sprite_width/100;
+hpad=sprite_height/100;
+text="THANK YOU FOR PLAYING!"

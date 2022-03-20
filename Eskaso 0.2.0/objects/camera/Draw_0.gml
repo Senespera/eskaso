@@ -1,0 +1,1 @@
+//draw_text(x,y,kalim.image_xscale);

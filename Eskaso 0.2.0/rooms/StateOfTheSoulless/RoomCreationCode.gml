@@ -1,0 +1,1 @@
+audio_play_sound(so_SotS,1,1);

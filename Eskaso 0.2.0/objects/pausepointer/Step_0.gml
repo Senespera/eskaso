@@ -1,0 +1,1 @@
+if pause.visible==true visible=true; else visible=false;

@@ -1,0 +1,11 @@
+15:15. I don't feel too good, but I'm motivated. A little.
+
+1. Create the Game Over scene
+2. Blink white when hit
+
+Also, I'll need to plug in some sounds later. I think I have an unused cue sound
+
+Okay, I think I did it. Let's hope I don't stumble into a sprite bug later.
+Now, time for some repetitive work.
+
+17:45. Holy shit the lag is bad. Sprite's done, though. I'll implement it later.

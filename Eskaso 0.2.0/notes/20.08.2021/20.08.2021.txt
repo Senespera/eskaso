@@ -1,0 +1,41 @@
+5:57. I'm a fucking creature of the night now. A motherfucking prince of darkness.
+When I'm not working on Eskaso, I'm working on Childhood.
+I hope I won't be tempted to start working on Romance of the Elements, too.
+Or Dangerous Ideas. Or Adolf Hitler's Bizarre Adventure.
+
+6:38. enemy should be ulprocket, but it's apparently not. I have no idea where to go here.
+
+7:06. Putting that aside, drop doesn't drop EAF when it should.
+7:15. I see. I got EAF when it showed BP. I just need to sync the two somehow.
+7:25. Fuck, I forgot how I even set this shit up. What decides drop again?
+7:49. Still not succeeding. I'll try binding it to sprite_index of Announcer. But first, my breakfast.
+7:59. Breakfast done. Let's hope my mind is refreshed enough.
+8:11. You know what? This won't work. The last disappearing Announcer will influence others.
+Let me think.
+8:34. God damn it. I took so long to implement this new bullshit system and it still doesn't work.
+I'm metaphorically bashing my head against the wall.
+8:41. I... I can't believe it. I changed countercounter and it all works fine now!
+Now to make sure they spawn with the same period.
+Fuck. Nevermind. Mistake again. It only seems to happen at the middle lanes.
+Nevermind. It happens on lower levels, too. Let's run a couple more tests.
+It happens everywhere and sometimes even on first spawns. I accomplished nothing.
+Nevernevermind. It only happens mid again after I moved the resetting clause.
+Nevernevernevermind. It happens... fuck it. Fuck everything. I don't know what the fuck to do.
+And when I don't know what to do, I usually crash everything and start from square one.
+But I don't want to...
+9:16. Fine. Let the song end, watch some videos and brainstorm alternatives with GMS closed.
+
+19:55. I had a good nap, now to fix things up.
+...I'm drawing a blank.
+20:19. Another failed attempt.
+20:37. Did... did I do it? Finally? L-Let's deal with periodity, then.
+I... I think I did it! The day was not wasted!
+I added k collision and so far... looks difficult enough. I'll add OPF later. When all other mechanics are in place.
+
+22:45. I'm too satisfied with myself to be angry at these new bugs:
+1) Urumagh keeps appearing from the right after being cued
+2) Right Urumagh only gets cued when very close by
+And I don't know why either one happens.
+22:52. Maybe I deserve a rest. My brain doesn't seem to work anymore.
+But I'll feel guilty leaving after such a measly amount of progress...
+Whatever. I'm not in the right state to be working. Bye. Maybe I'll draw children tomorrow instead.

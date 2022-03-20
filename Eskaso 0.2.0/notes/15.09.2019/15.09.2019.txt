@@ -1,0 +1,20 @@
+Goal for today: complete the basic mechanics.
+Should be simple enough.
+Level design is a whole science in and of itself.
+I'll need to come up with a language for writing it down, too.
+I reckon it'll look something like musical notes.
+Will I synchro it later with the soundtrack? Maybe. Maybe the other way around.
+No matter. Let's get this easy part out of the way first.
+
+14:22- I spent basically all this time drawing Superstitions instead.
+Maybe I need a detailed plan:
+
+If no enemies are in sight, lazerboy.
+
+Else- xscale protolazerboy accordingly,
+hit the spot where needed,
+cue the enemy away,
+and drop the drop.
+
+14:46. I'd much rather make dinner and take a break, though.
+This is going to be another unproductive day, isn't it...?

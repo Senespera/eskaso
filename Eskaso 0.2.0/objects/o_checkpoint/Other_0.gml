@@ -1,0 +1,1 @@
+if y<540 instance_destroy();

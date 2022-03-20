@@ -1,0 +1,1 @@
+//draw_line(window_get_width()/2,window_get_height()/2,spdx,y);

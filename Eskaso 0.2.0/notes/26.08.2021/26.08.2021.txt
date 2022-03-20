@@ -1,0 +1,20 @@
+6:20. It's too bright. I feel motivated to get to the bottom of these bugs.
+Removed a line of code meant to fix something else. I shall remember this trick.
+Now to deal with respawning. I have no idea why that's going on.
+
+I limited spawning to where Announcer is where it's meant ot spawn.
+I'm still not sure how it went awry, but at least it's been dealt with now.
+
+Bug: overlap with fall and lunge or shoot for some reason. And sometimes there are 2 falls.
+And sometimes rockets appear in hordes and the cannon moves with Kalim.
+I'll try moving alarm setting to when the last rocket is launched, a komout is spawned and fall is outside the room
+
+Seems to have fixed the issue. There are still rogue rockets, but it's nothing game-breaking.
+Well, it's been two hours. Time to take a break. Who knows when I'll be back?
+
+12:43. Damn. My eyelids are already heavy. But I must press on.
+Let's start by setting urumagh's hp at 1 and implementing the transformation animation
+Fuck, double fall still happens. Where did I put alarms again?
+*sigh*. If I let the cannon wander, the alarms may stop setting. Back to cannons.
+
+14:25. I'm tired. Rage lunges don't spawn for some reason.

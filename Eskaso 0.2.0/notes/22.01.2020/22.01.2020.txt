@@ -1,0 +1,26 @@
+okay, maybe not literally tomorrow.
+time to import the timeline
+
+what the fuck
+Why do I miss cues?
+therail.right/left seems to work...
+
+I see - righthere doesn't activate for some reason.
+Why is this happening...?
+apparently, it starts out as true, but then goes to false...?
+
+FUCK IM SO CLOSE BUT MY HEAD CAN'T FUCKING TAKE IT ANYMORE
+Basically, I think righthere sets to false whenever koms despawn on teir own
+which happens after other koms spawn with righthere=true
+in other words, don't set it to false if...
+theiral.right>=2...?
+in other words, set it to false if theiral.right<2?
+I WON'T BE ABLE TO LIVE WITH MYSELF IF I LEAVE IT HERE
+wait what if i just continuously set it tu true when they're alive?
+SAME ERROR AS IN AAAAAAAAAAAAAAAAARGHH
+i am literally mentally falling apart.
+i am afraid if i don't finish it now then it's all done
+i don't even know how i would rework all of this...
+
+you know what? i'll just go back ro the range of 2.5 per encounter.
+fuck my worthless ass. fuck me. fuck fuck shit fuck shit shit fuck cunt fuck

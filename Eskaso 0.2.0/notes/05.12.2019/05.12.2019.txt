@@ -1,0 +1,11 @@
+Been drawing, had an idea-
+Regarding this whole cueing thing:
+Once the enemy is Halfway There, fade and become harmless and uncueable
+(by turning into one's degenerate brother)
+
+done it. 
+i think i'll fix the SW spawning bug and be done for tonight.
+
+something's up with coordinates.
+or, rather, something's up with me not understanding where things spawn.
+regardless, it's workable for now and I have to not push myself.

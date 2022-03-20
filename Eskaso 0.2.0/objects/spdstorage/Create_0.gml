@@ -1,0 +1,12 @@
+spd[1]=window_get_width()/(random(50)+50);
+spd[2]=window_get_width()/(random(50)+50);
+spd[3]=window_get_width()/(random(50)+50);
+spd[4]=window_get_width()/(random(50)+50);
+spd[5]=window_get_width()/(random(50)+50);
+spd[6]=window_get_width()/(random(50)+50);
+spd[7]=window_get_width()/(random(50)+50);
+spd[8]=window_get_width()/(random(50)+50);
+spd[9]=window_get_width()/(random(50)+50);
+spd[10]=window_get_width()/(random(50)+50);
+spd[11]=window_get_width()/(random(50)+50);
+spd[12]=window_get_width()/(random(50)+50);

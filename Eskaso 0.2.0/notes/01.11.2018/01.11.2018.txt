@@ -1,0 +1,18 @@
+23:19. Finished SURVEY_PROGRAM today. My heart feels cared for. I think Obsession took a step back, too.
+My tests' results are going to be unimpressive.
+Good.
+I'm not a student first. Neither am I a friend, a gamer, a citizen, a man, a liberal, an atheist or a tea addict first.
+I'm Eskasisto.
+No more Wasted Time.
+Let's get it on.
+
+ Let's adjust dat speed!
+ And Make that RB into SD!
+ I'll RP as an oldie and reverse the scale instead of just dumping a reversed sprite.
+  wait. no. the octangle thing. i got it wrong this time.
+  LOOK LEFT, GO LEFT- Xscale=-1
+  LOOK LEFT, GO RIGHT- Xscale=-1
+  ah, i won't actually have to change much.
+  
+Some sprites i shan't forget: standing, cued back (45,90,135,225,270,315. Maybe modify 0,180 later)
+0:26. Can't say I expected to be productive today.

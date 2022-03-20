@@ -1,0 +1,1 @@
+vae_karm.hit=true

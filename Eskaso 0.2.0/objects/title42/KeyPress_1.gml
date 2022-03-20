@@ -1,0 +1,1 @@
+if hit==true room_goto_next();

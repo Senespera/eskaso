@@ -1,0 +1,12 @@
+	    var token = random(1);
+	if token <= 0.75 instance_create_layer(x,y,"OpenWindows",khrNW);
+		var token = random(1);
+	if token <= 0.75 instance_create_layer(x,y,"OpenWindows",khrN);
+		var token = random(1);
+	if token <= 0.75 instance_create_layer(x,y,"OpenWindows",khrNE);
+		var token = random(1);
+	if token <= 0.75 instance_create_layer(x,y,"OpenWindows",khrSW);
+		var token = random(1);
+	if token <= 0.75 instance_create_layer(x,y,"OpenWindows",khrS);
+		var token = random(1);
+	if token <= 0.75 instance_create_layer(x,y,"OpenWindows",khrSE);

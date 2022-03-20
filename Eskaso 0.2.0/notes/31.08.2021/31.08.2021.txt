@@ -1,0 +1,24 @@
+7:55. Fuck I'm unmotivated, but it has to be done eventually. Lunges must spawn.
+Oh. I think I got it. It only works for yellow blinks. Let me change that.
+8:22. Nope. Still something screws it up... occasionally.
+
+It also stops following k after some time. Should be a hint.
+Now blink also centers on k when it should be above. I am breaking things.
+Okay... 1. Fall sometomes centers on k.
+2. Cannon sometimes moves with k
+3. Rage Lunge blink doesn't move with k
+4. Rage unmoving Lunge drops CP when long cued
+
+Okay, regarding 4. I think Urumagh moves to the wrong direction, since long cue may take a while to hurl CP.
+Yup. I forgit to put a minus on the right one. Checking...
+Yes. That seems to have been the problem. But now the CP it drops spawns Fall for some reason.
+I'll just switch it all to BP for now.
+
+4 and 3 dealt with. Now to see wtf is wrong with 1.?
+I... I think I dealt with 1. And I haven't seen 2 in a while... I guess I could add Urumagh's HP bar...?
+Done. And oh- I forgot to add a bunch of blinks during rage transformation.
+
+10:26. I expected something prettier, but whatever. Now to fix hp for energy. 
+I'll have to find the right sounds for the end and the transformation soon.
+
+11:17. Wow, time flies. I guess now's the time for sounds. Bye, GameMaker.

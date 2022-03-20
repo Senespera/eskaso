@@ -1,0 +1,8 @@
+I've decided to cut shishkebab altogether. It's just too confusing for the player.
+
+So, my plan so far is:
+1. Redact the level spawns
+2. Add the level finish (the claw appearing, DD's stopping, Kalim going in, level switching)
+3. Spice up game overs
+
+did the first two, except i want to find a way to gradually reduce volume.

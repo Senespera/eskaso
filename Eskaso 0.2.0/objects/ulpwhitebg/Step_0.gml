@@ -1,0 +1,1 @@
+if visible==true {image_alpha+=1/90; if image_alpha>=2 room_goto_next();}

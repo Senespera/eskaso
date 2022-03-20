@@ -1,0 +1,17 @@
+19:26. I slept through all the classes again. I'll have to catch up later.
+My goal for today is FINISHING THE DAMN LEVEL THAT'S RIGHT. THAT MEANS:
+-Tuning DI TICK
+-Tweaking buildings
+-Decreasing SH13LD size in-sprite TICK
+-Implementing the level TICK
+-Creating the ending TICK
+
+I pretty much only ate peas, nuts and papaya today. Might take a bean break. Or make a granola.
+Oh, yeah. I forgot about battletoads. Should be easy enough to copy from ULP.
+
+22:09. I implemented the level and created the ending. Major bugs are absent.
+But honestly I'm spent. I'll create OPF version and retire to FFXIV.
+Future me will be happy with how little work is left. Maybe he'll increase the challenge, that fucker.
+I'll leave the battletoads just for the hell of it. 
+You'll still be able to beat the game even if you hit every single one.
+22:17. I did fine. Peace out.

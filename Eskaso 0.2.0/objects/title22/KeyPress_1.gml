@@ -1,0 +1,1 @@
+if hit==true tutorial2.visible=true;

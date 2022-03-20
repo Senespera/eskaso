@@ -1,0 +1,1 @@
+image_yscale=timer.image_yscale;

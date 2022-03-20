@@ -1,0 +1,1 @@
+if skipscene.visible==true {skipscene.visible=false;hit=false}

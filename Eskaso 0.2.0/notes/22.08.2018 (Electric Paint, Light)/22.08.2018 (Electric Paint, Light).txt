@@ -1,0 +1,20 @@
+12:35. My PC clock is set 5 minutes early, and my internal clock is doing a fucking John Travolta dance with its hands
+Can't really complain now, though. This is going to be a productive day. I'm a little less tired.
+The obsession keeps me in bed just the same, but it's been getting... less rewarding. It's hard not to feel sad.
+I mean, I'd rather it go away completely, but... I can't think of anything that would feel nearly as sweet.
+13:33. PINK EP is done.
+You know what? I really have no excuse for using sp_energy placeholder. I mean, how hard can it be to draw an actual good sprite?
+15:20. I believe that unsettling man said that 4 hours of non-stop work is the limit. Well, I'm making plenty of stops. Too many.
+15:28. See?
+16:09. My mind is either running too fast or too slow. Either way, I still have enough motivation to do EV.
+
+I just need to write down the order of events somewhere. Energy Vampire!
+1. An enemy is set as glowing in a particular color. For now, just put it in the Create event.
+2. When the enemy OR the Light is RMB'd (probably just make it the Light if that's how it works), decrease the latter's size with distance
+3. When the mouse is far enough from the Light, yank out a particular color and delete the Light.
+
+16:25. So...
+1. Create a script that creates a Light of a particular color
+2. I forgot.
+
+16:40. I ain't any good right now, huh?

@@ -1,0 +1,1 @@
+if book.i==30 alarm_set(0,45);

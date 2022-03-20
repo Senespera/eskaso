@@ -1,0 +1,9 @@
+Hi. Didn't expect to be back so soon, but...
+I'm here to at least begin to autosave...
+...And SMASH- deleting obsolete resources.
+
+17:01. Done smashing. Let's get to saving
+
+18:49. What if the player exits at the LS-16 screen?
+That must not be allowed to happen. Simply remove SavenLoad from that room?
+18:53. Yup, I think I'm done. I'll have time to think about this later.

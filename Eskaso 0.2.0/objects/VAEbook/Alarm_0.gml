@@ -1,0 +1,9 @@
+vae_eye.visible=false;
+vae_zigzagleft.visible=false;
+vae_zigzagright.visible=false;
+audio_sound_gain(so_vaecharge,0,1);
+audio_play_sound(so_dmexplosion,2,0);
+vae_k.sprite_index=s_vae_fly;
+vae_steam.visible=true;
+vae_steam.image_speed=vae_steam.spd;
+hit=false;

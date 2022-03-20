@@ -1,0 +1,1 @@
+if hit==true and pause.visible==false x-=30;

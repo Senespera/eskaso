@@ -1,0 +1,1 @@
+if visible==true y+=20;

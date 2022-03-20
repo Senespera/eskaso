@@ -1,0 +1,1 @@
+if sprite_index==s_df_k7 y+=15;

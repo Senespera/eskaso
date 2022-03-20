@@ -1,0 +1,54 @@
+I'm still postponing it.
+I'm here to propose a fix to Windows 95'ing and to implement the building, as I forgot all about it.
+Also I'm finally listening to Dream Theater's new album.
+I should probably also hide Гордость once I link the demo. It'd be a shame if someone important found it.
+
+Windows 95'ing. Basically, if left/right is too large, do not blink. Simple. Now to decide on the number. 4?
+I'll play Dragon's Maw to remember.
+No, 2 should be enough.
+Which is actually... 1? Because it's one per side. Let's somehow see.
+Doesn't somehow seem to break anything. I'll assume it works. Now onto the building.
+
+This is harder to think about, but basically: if x<~xmean and y>~ymean, create a building behind that goes up.
+if ... create one that goes right. if ... down. if ... left.
+The direction of movement will be given as a number. So... spdx and spdy?
+Wait. I suddenly feel the urge to make the building slightly 3D. brb.
+
+I did it and at the same time figured out that I can't realistically show the transition in 3D.
+I'll stick to 2D then, I guess.
+Wait. What if... I make one sprite per position? Let me try to mentally visualize to see if it's feasable.
+I think so! Brb again.
+
+Back. My visualization skills suck. But it'll still look slicker in 3D. I can try. If it looks real bad, I'll just revert.
+Fuck, I just can't focus today. The horizontal line disappeared. B.R.B.
+OR NOT. 
+Okay, back to business. Where should their origin be? Well, they'll all be originating from the same spot, right?
+Top left should work. Next, layers. How about Buildings and BehindBuildings? And BBBuildings for moving originators.
+You CAN change the layer, right? Let's test that first.
+
+Yes, you can. Now let's go NW-NE-SE-SW-NW.
+I'm changing sth: direactions are based on sprites now.
+I might not need BBBuildings after all. Just swap layers.
+
+Infinite spawns. It's getting hard to think. But I must. It's such a tiny fucking thing.
+Fuck. I feel so helpless. The music is supposed to be helping me.
+Aaaaargh. I give up. I'll watch an episode of Hunter x Hunter and maybe come back with a redo.
+
+I'm back and still got no clues.
+Hmm... Hit is basically always true.
+Ah, I see. The spawner always moves, not when the other one stops. I should add some sort of trigger.
+Okay, the spawnee moves, but the spawner doesn't. Let's see what can be done...
+
+It works! But the spawnee is in the upper layer...
+I did it by only swapping layers when cd is false!
+There. Now I just need to upload it, send it to the guy and... wait? Should I promote the game already?
+I bet watching more anime will give me the answer.
+What's up with sounds going from the left, though? Lemme see...
+There. Negated x.
+Oh. Forgot to make Urumagh salute. Right.
+
+There. I'll back up this version and create an exe. That way, it'll be easier on my mind.
+Back again. Forgot to delete testing text.
+
+ONE LAST THING
+I noticed that pausecounter appears when ULP ends. I'll remove that now.

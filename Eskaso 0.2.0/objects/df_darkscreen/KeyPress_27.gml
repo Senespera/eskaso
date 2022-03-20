@@ -1,0 +1,1 @@
+if cd==true game_end();

@@ -1,0 +1,1 @@
+if visible==false or image_index>1 image_speed=0 else image_speed=1;

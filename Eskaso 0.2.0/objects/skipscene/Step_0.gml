@@ -1,0 +1,1 @@
+if instance_exists(camera) {x=camera.x-960; y=camera.y-540}

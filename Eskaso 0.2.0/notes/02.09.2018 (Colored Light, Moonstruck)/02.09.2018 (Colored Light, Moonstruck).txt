@@ -1,0 +1,43 @@
+14:24. I'm going to try to take a break from everything for a bit today. Then... I'll start thinking.
+14:57. I'm feeling calmer. More ready to make decisions. More focused. But only a tiny bit.
+
+I really need to think up a better way to keep track of these. Sticky notes.
+I feel like solving a mystery today. Let's see why this Light is so stubborn.
+15:14. Okay, I guess I should've taken advantage of my color assignment practices.
+I can't EV it anymore, though. Is the game falling apart already?
+Nope, I just used ==! instead of <>.  Works fine now.
+Still want to fix some things. What's up with bumping?
+Is it a good idea to have every Kalim's Collision event with every single object inside her?
+Nah, There should really be a more sensible solution to this.
+Hmm... I think it might be this accursed if self==kalim. FINE. I'll make a different c_bump for creeps.
+I MEAN PURSUERS I'M SORRY. Huh. I didn't intend for them to allude to this same thing.
+15:28. Nice and easy.
+
+PROGRESS SO FAR SO THAT I MIGHT FEEL SOME SATISFACTION
+Light now lights up correctly and can be EV'd again
+Bump works fine.
+
+Nah, still not feeling it. Oh well. Maybe if I create something new after fixing stuff.
+You know what? If The 16 are going to have the same hitbox, the sliding is pretty damn smooth, I'd say.
+NOW, THE TRUE CHALLENGE. RICOCHET. But I'm sick of this name. I hereby give you the title...
+Moonstruck.
+Didn't expect that, did you?
+If I stick a silly name on something I hate, I might come to find some joy in it.
+I don't think this works another way around.
+16:43. If I was capable of learning from my past experience, I'd retire for a bit in face of this dir issue.
+16:59. ...I did it? The solution was so easy- I just went an extra step...!
+...Which is why I feel stupid and not satisfied. I wanna feel satisfied. Is it game o' clock yet?
+
+I feel like I'm going to become a lot more dependant on video games for satisfaction.
+My sources of it are being stripped away. I hope it won't come to drugs. 
+And if it will, I hope I'll at least learn to be discrete enough to buy the illegal but harmless ones.
+Actually, if I ever become this desperate and numb, I'll probably just buy a dildo or something.
+Or start flagellating. Or harming myself. Or give up. Point is, satisfaction is super important.
+
+BUT ENOUGH OF THAT CUZ WALLS ARE DONE!!! I FEEL NO SATISFACTION!!!
+No, I'm not at my limit yet. Let's do doors.
+17:23. Genius break:
+Door description:
+The millisecond it's crossed, it slams shut, freezing everything inside the room it sealed almost instantly.
+As they're getting sealed, they get darker/obscured by foreground.
+The symbolism: The door is closed. The page has turned. The past is in the past. Everything is fine now. Move on.

@@ -1,0 +1,1 @@
+if sprite_index==sd_u2 if image_index>=1.5 image_speed=0;
