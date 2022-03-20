@@ -1,7 +1,0 @@
-One Octic cycle later, i believe I've got this:
-y+=spd
-spd=(x-halfway)^2
-x+=1
-
-so, y+=(x-halfway)^2
-x+=1

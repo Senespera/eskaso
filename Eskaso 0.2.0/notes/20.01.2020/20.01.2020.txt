@@ -1,9 +1,0 @@
-Feeling better.
-Sped up komouts,
-Fixed splash cueing,
-Fixed uncanny cueing,
-Imported fading audio,
-Removed cueing costs (keep it simple)
-Bumped up CP effect
-
-Will try to import te whole spawning timeline tomorrow.

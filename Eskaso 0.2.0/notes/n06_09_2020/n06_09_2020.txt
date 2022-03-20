@@ -1,9 +1,0 @@
-19:31.
-
-I'll just try to edit animations for the cutscene.
-
-22:19. Did surprisingly well today.
-Agenda for next time:
--Somehow add pauses (with Mortanimo between sentences as well)
--Add Buildings and VHS in the background
--Remaster siphon and explosion in Krita by removing the white
