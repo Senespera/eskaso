@@ -1,0 +1,1 @@
+stepdir(spd,image_angle);

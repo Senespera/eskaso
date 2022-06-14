@@ -1,0 +1,1 @@
+urumaghF.sprite_index=s_urumaghrunF;

@@ -1,0 +1,1 @@
+audio_play_sound(so_RiS,5,1);
