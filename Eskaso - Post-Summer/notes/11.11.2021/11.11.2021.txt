@@ -1,0 +1,11 @@
+Happy 10 year anniversary, Skyrim.
+To congratulate myself on actually studying today, I will only be removing minor bugs today.
+For full to-do list see 09.11.2021
+
+Fixed slowing down music in UnPo
+Made sure all sounds stop in VAE just in case.
+Reduced crawling duration
+Disabled OPF turning off at Game Overs.
+Added a snarky comment doing the above.
+
+Only took about half an hour. Despite Wild Rift, today has been a surprisingly productive day.

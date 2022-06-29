@@ -1,0 +1,4 @@
+ Instead of extending the camera during charging, place it at the appropriate predetermined point - done
+ When dashing, reset spdx/y - done
+ Dedramatize successful pushes- done
+ Make pushing cover less ground- quicker pushspdmax and regress? - done

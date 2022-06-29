@@ -1,0 +1,36 @@
+16:09. So many things to write about...
+1. I love Stormwind
+2. Thank you, DarkMatter2525. I promise I won't die.
+3. Is it about time I wrote those bloody programs? Maybe NOT.
+4. Oh shit my birthday is coming up. Am I gonna do it? Oh boy.
+I've been half-considering buying something more "adult".
+And I'm not just talking about collections of philosophical lectures.
+I'm having a hard time finding those that could provide the same fun time.
+No way I can purchase those discretely, though.
+If I had such skills, I'd buy some weed as well.
+
+Lucifer. Abaddon. Satan. Shaitan. Chyort. Diavolo.
+Many peoples gave it many names. Few came close to describing its true nature.
+I bring this monster's true identity: Doors.
+And I have uncovered its weakness: most of the time, it consists of few parts.
+Ho-fucking-ld on. What do I mean by "walls"?
+A huge, amorphous beast that a) prevents movement - easy enough.
+b) ricochets kalim/pursuers/TYWYH(?) in a proper direction- same as the mechanics of ight reflection.
+Just imagine how fucking easy it'll be placing walls if I imagine to create this kind of colission!
+Example: X flies to the right and encounters a straight-lined part of the wall.
+Depending on what angle difference of its perpendicular or whatever and X's dir,
+X bounces off.
+Now, the obvious difficulty is the perpendicular. I can't think of any way to create it, actually.
+In fact, I don't think it's even possible. Lemme try to scribble something down. 
+Jeez, Obsession is making it hard to focus.
+Or does it just occupy my thoughts while I'm already unfocused...?
+
+19:06. My mind is weary. I'll place the other walls later. It's probably dehydration.
+19:28. Just a note: pursuers are going to bump into walls unless you position doors otherwise.
+Might want to create a bit of a pathfinder. Something working with the nearest walls as pointers.
+God, I love drawing Urumagh. Well, not drawing. Looking at him when he's drawn. The joy of post-creation.
+19:42. Sure. Levelwall seems to work fine. I'm afraid I simply have no strength to do the walls today.
+Sorry, Stormwind.
+But my creativity still seems to be working, weirdly enough. 
+I'm going to draw and think about Dash Economy before retiring for today.
+It's probably the sugary drink that created this laziness. Serves me right.

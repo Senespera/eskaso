@@ -1,0 +1,21 @@
+17:41. Fucking bricks man, fucking bricks. Fuck them bricks man. 
+I WANT to just let it go, but I do have at least some dev pride. 
+Fine. Let's set off some time to see if anything can be done about it today.
+If I come up with nothing, it's not too bad - I can always come back another time.
+But just so we're clear, today's mission is just implementing the level. Minimal testing.
+Oh, and fix DI pause thing. Probably should start with that. It'll be quick.
+
+17:46. There were at least 2 ways of fixing that, but it'll do.
+17:55. Fixed one problem, another pops up. Now after Game Over some bricks are furthering away.
+Let's remove 8 for now and see how it plays out.
+Not helping. Let's try moving to closest left brick. On Create because otherwise I'd have to move cracks too.
+
+18:21. The game is lagging and the problem still isn't solved. But lagging is due to drawing, so nevermind.
+
+19:04. Okay, okay. You tried and you failed. There is always a next time.
+By the way, you seem to have forgotten the SF aura and you need to test new static delay.
+
+19:18. 150 seems to work. Will crank it up to 160, though. Now onto the level.
+19:25. Note to future self: tune SFt within t cases. It's dormant until activated anyway.
+
+21:49. Holy fuck I've been procrastinating. Logging off.

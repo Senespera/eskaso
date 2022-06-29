@@ -1,0 +1,14 @@
+Welp, I mean... I did do it.
+...That was surprisingly simple.
+I should feel satisfied.
+But I feel nothing.
+I've still got an hour until I can rank up in Warframe.
+
+No way I'm gonna put more work into it today. I'll just disappoint myself.
+I should just learn to set appropriate goals instead.
+
+Next time, create a manual spawning system.
+-Spawn from either/both sides
+-Spawn enemies (still placeholder sprites)
+-Blink- with an aura and all- and then spawn after One Second.
+-Firin' Ma Lazor drops the drop.

@@ -1,0 +1,13 @@
+I didn't plan on having this much of a break, but anxiety is a bitch
+There's still this paralyzing feeling in my heart, but I must carry on.
+
+Plan for now:
+1. Finish the level spawns
+2. Finish implementing the checkpoint (game overs)
+3. Add the ending
+
+i did finish the spawns just now, but there's another phantom and i'm just
+urgh.
+too tired for hunting.
+i'll save the bug hunting for after i finish the level.
+yeah, that sounds like a reasonable idea.

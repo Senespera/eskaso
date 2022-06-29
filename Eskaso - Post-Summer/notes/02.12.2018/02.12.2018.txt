@@ -1,0 +1,20 @@
+i dont wanna make notes right now
+okay
+-change on button press and not dir change
+-change on closest dir and not whatever it is right now
+no im not depressed. look- i've managed to force myself to work.
+okay fine
+have some more of my stream of consciousness
+but only because i'm having trouble keeping track of my thoughts whilst they're in my head
+how do i change to closest angle.
+well. how does this look in my head.
+"change sprite to match the closest octangle"
+am i justified in using 'for', then?
+nah. that's the heavy artillery. i'd rather keep it nice, simple, and long.
+cases in ranges. ye. lemme just look this shit up cuz i don't wanna do a bunch of if then elses.
+oh. can't do that. well, fuck me. ifs it is.
+one. more. time. split ting hairs. octangles are: 0,45,90,135,180,225,270,315,360.
+i guess i should move 23 degrees clockwise and 22 counter-clockwise
+so.. (337..22] (special) (22..67] (67..112] (112..157] (157..202] (202..247] (247..292] (292..337]
+yay. now onto the other one. maybe i'll even manage to actually create an outline of the level today.
+yay.

@@ -1,0 +1,1 @@
+if room==UnLimitedPower{hot=false; t=0;}

@@ -1,0 +1,21 @@
+23:04. Now onto the hardest Superstition ever created - Dreadful Cycle.
+I suppose writing its mechanism down to the letter will make things easier.
+Acquisision is the same as the others, just find the right sound effect.
+Upon collision, if not already affected, freeze timer and fate
+make the static gain alpha, drowning out the level's track
+with the sound of static. Delete starmaker, urumagh and all the stars. Make bg objects invisible.
+Then, after some time, the static and its sound subside,
+revealing khr's, windows, stars , track and dd of AuRe.
+Then, activate (perhaps with some modification) fate.
+After fate reaches a certain point, freeze timer and fate, make static gain alpha, drown out the track,
+delete starmaker and all the stars, make bg objects invisible.
+Then, before subsiding, spawn urumagh back, unfreeze timer and fate (after subtracting 1.5 seconds),
+spawn starmaker, make bg objects visible, disable dcd
+then, make track loud again.
+If the player somehow loses while dcd, dcd is turned off.
+I think that's it. Will modify if needed.
+
+1:02. What is taking my roommate so long in the bathroom? He's been there for at least an hour and a half.
+But while he's there, I might as well keep moving. So, turning on our fate...
+1:09. Yay, they came out. My excuse to wrap it up. I basically did most of the work anyway. 
+Something like that, anyway. Don't let a day go by.

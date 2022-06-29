@@ -1,0 +1,36 @@
+15:00. Well, this night was quite an adventure. I've been told that there is no danger and it should come out by tonight.
+But if I die, don't repeat my mistake! Don't shove styluses deep inside your rear end! 
+It usually doesn't hurt, but I'm paranoid!
+Sorry for being awkward! I just think this should be said!
+15:48. Hmm... everything looks just fine without EP. Maybe I should just have it right after EV.
+
+23:45. Again with the whole nonexistent variable shtick. I gotta come up with a uniform solution to this.
+How do I determine whether or not painter==true
+Because I set it to true before they're even created
+But in order to check for truth, they have to have a default value- set AFTER creation
+Which erases the value I set before creation
+
+I guess I could describe what I want to do.
+When pulled out, I want TYWYH to leave a trail for a second or so
+As opposed to the TYWYH that are placed manually beforehand or spawned on their own
+...Maybe I should just create a painter object. Yeah, that sounds easy enough.
+
+0:17. Tomorrow (or, well, today) will mark a week of constant progress. I should mark it by creating a backup file.
+OR I could wait another day. Measure progress by periods of 8 days, as opposed to 7. 
+Weeks are for the weak. For the people of Wasted Time. For the limited. The repetitive. For those not Pushing Onwards.
+Octagoj are for the Iconoclasts. The afraid. The delusional. The insane. The brave. The clear-minded. The W 0 K E. 
+0:32. Now, I'm not done with premature scoffing. The pretentious. The artistic. The cosmic. The unmotivated. The shamed.
+
+1:19. Another perfectly sufficient mechanic completed. It actually felt kind of nice this time. Still not the true satisfaction I'm looking for.
+I've managed to stay relatively focused despite all the... things.
+Now if only I could get that tablet pen out of my asshole without going to the ER again.
+And I can't say that I won't do it again. It's... one of the few sources of satisfaction that I have. Real satisfaction.
+I know it's uncharacteristically primal of me, but... since I can't ignore these urges, I might as well make them enjoyable.
+Get a girlfriend, they'll say. Or a boyfriend, if they're witty enough. 
+That's not how it works. Mutual love will tear me away from Eskaso. I want to create the kind of beauty that would spread. At first, at least.
+That's why I haven't been fighting Obsession as hard as I did the first time. 
+It gets me the sweetness and pain of being in love without endangering myself or my unlucky object of obsession.
+After watching MGS4... I feel like I'm wasting the best years of my life. God damn it. Stop it, Kojima. I'm liking you less and less.
+This is the way the Programs work. I refuse to follow the same code.
+I will take the risk to spoil the only life that I have. I will risk to denegrate my finite existence.
+If I plunge this thorn in my heart right now, it will grow into a rose sooner.

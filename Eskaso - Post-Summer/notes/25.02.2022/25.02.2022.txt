@@ -1,0 +1,12 @@
+0:39. Let's see if I come back after uni. Completing the smaller half of the cutscene...
+1:53. FIRST TRY discounting book's positioning... and Kalim falling...
+2:03. Fixed both. Now I'd better go to sleep lest my roommate keeps silently complaining.
+
+18:34. I slept through the class and at this point I'm too afraid to ask what happened.
+But enough of that. Time to see how many lines I can implement correctly on the first try.
+Apparently I forgot to make sprites where Kalim turns to the telescreen. No matter. I'll just do it here.
+20:26. Apparently we had homework BUT THAT'S DONE NOW LET'S GO
+21:29. Wow. An hour of preparations. If the universe is a bitch, there'll be bugs a plenty.
+Well, that didn't take long. Camera fucked off. Will move to later.
+22:10. Can't believe I'm actually done with this cutscene. The level itself should be a piece of cake comparatively.
+Since the internet here is so shit, I'm just gonna do MSQ and/or level culinary. Best game.

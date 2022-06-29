@@ -1,0 +1,8 @@
+0:47. Implemented a mediocre soundtrack,
+coloured active static,
+added OPF,
+added DD sprite
+
+Moving rooms and uploading to itch.io
+I also did some basic work on Kalim dance
+because I refuse to let a day go by

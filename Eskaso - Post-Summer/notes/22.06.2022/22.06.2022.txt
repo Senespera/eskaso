@@ -1,0 +1,31 @@
+21:36. Damn, past me was a weakling. He let a day go by. Well, tonight I plan on FINISHING THE FUCKING STAGE
+White Battletoads? You know how to fix it. Flying during STP? Take a wild guess.
+Stopping spawning? I'll have to take a look.
+But before tackling the big bad, you might want to implement SF courses.
+21:43. There. Two in a single stroke. Now why do the enemies stop spawning? Check fate.
+21:49. I was supposed to fish out the big, but I ended up playtesting the level.
+Well, it is playable. Now back to business. Or maybe I fixed it already.
+DIMist stalls the timer? Unacceptable.
+22:01. Fixed? Okay, finally onto SF.
+
+22:07. I forgot how new SFt's are assigned. Oh. It's inside the first switch. Got it.
+So there are 5 intervals now.
+
+22:36. Implementation complete. Now to test, then to draw the statue, 
+then program her destruction, then add stage complete, then activate SavenLoads,
+then slap a label on it, ship it and promote it. Well, assuming I can do it all tonight.
+22:45. Complete. Now onto Krita.
+
+22:56. I'm back. Let's test it without getting to the end of the level. 
+Actually, I'd rather test it in OPF.
+
+23:50. Oh. I forgot to add Intermission 6- ARE YOU KIDDING ME TESTING DID NOT TAKE THAT LONG
+0:02. Done. Now onto the hard part. Which will probably be tomorrow. Well, today, technically.
+I will:
+1) Promote it in GM's Steam
+2) Sneak back onto Twitter
+3) Ship it to my groupmates
+4) Make a log on itch.io
+5) Will send it to my brother and my friend.
+
+Let's see how far it'll reach.

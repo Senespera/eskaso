@@ -1,0 +1,22 @@
+12:29 - In uni. Just realized I forgot to add invulnerability and add an option ot skip scenes.
+Might as well do it while others present their progress.
+...Or I DID add it but forgot. Okay. Testing.
+Uncovered a new bug! When TRY THIS pops up, it doesn't save ULPfate's spd... I think.
+Where the fuck did I put TRY THIS
+Found it by searching pause.visible=true and fixed.
+I think I'll prolong inv
+OR I DIDN'T ACTUALLY IMPLEMENT THE FUCKING THING added a 90 frame inv. Testing in ULP...
+Still not very forgiving. Upping to 135
+Still not good enough? And I thought I overshot it. 170?
+Fuck me sideways 190
+Oh. I was fixing the wrong thing. Removing added invs, fixing in k's alarm0. Trying 70
+Good for now. Now onto Krita to add scene skipper.
+Can I be arsed to add buttons to the screen? Nah. Let's go with the old school Y/N
+13:19. Drawn. Now to put this bugger into every cutscene room and into every book.
+Mayhap I should do it once I'm back from uni...? Yeah, let's do that.
+13:28. Apparently our classes aren't shortened, so I'm back.
+I'll make my work simpler and just create it from books.
+
+13:41. Seems to work. Now to copy it to other books. Also, intro's text is bugged.
+14:22. That took way longer than expected, but it all worked out. Logging out for now to conserve power.
+13:49. Fixed, Dragon's Metro camera and book are misplaced, and the text is bugged.

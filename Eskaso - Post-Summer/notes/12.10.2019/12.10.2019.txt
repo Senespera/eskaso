@@ -1,0 +1,14 @@
+introduce 2 variables: lefthere and righthere
+tie them to the rail. set true when blinks from left/right, set false when disappear
+-IDEA INTERMISSION-
+why not just SIPHON superstitions instead of catching them? yeah, let's just do that.
+next, if true
+ if d/a is being held
+  create a cue origin, a cue destination, and a cue that is stretched out properly.
+  if an enemy has yet to spawn, target a point outside the screen.
+  
+  if missed, color cyan. or white. white would probably be less confusing.
+  you'll probably want to create some properly colored overlay sprites.
+  if hit, color appropriately and apply the effect while cancelling the spawn or pushing back.
+  
+it's clunky, but i'll have lefthere be for the spawned and leftcoming for those yet to spawn.

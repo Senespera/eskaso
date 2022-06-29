@@ -1,0 +1,23 @@
+I'm not letting the day go by, even though it's technically the next day.
+Anyway, let's try and finish DC before calling it a night.
+2:41. Also, make koms be kommissars as well as their auras
+3:33. Screw procrastinating, I'm duplicating urumagh's Up/Down for W/S
+3.38. changing screenstatic's yy seems to have solved the laning issue.
+But Do I stop now or bravely press on, adding AI that makes Urumagh shoot DC/BP carriers and slash everyone else?
+yeah, i'll stop here. hey, i gotta have my yu-gi-oh time and the night has been pretty productive.
+Oh. Didn't program Game Over's return to normalcy.
+Welp, better luck, future me. I enjoy resting too much.
+
+17:08. Didn't expect that, did ya?
+17:17 fixed it like I'm the King of Games. Now... Urumagh. Wait. First I need to actually draw an explosion. BRB.
+17:34. Thought it'd take longer, but here we are.
+17:57. Now, before AI I'd rather implement Urumagh flying up at STP. It would make more sense that DC does nothing.
+18:17. Done and done. Now onto AI? I'm kinda tired...
+18:55. Time flies when you don't give a fuck. Shootin' is tootin', Now onto slashin'
+19:01. I did it, but something's missing. Let's make them komout...?
+19:06. I... I think I've finished implementing AI...? I think I deserved some rest, but...
+I will finish the most tedious part - implementing level design - and THEN walk away.
+Motivation doesn't appear that often. I gotta squeeze out every last drop.
+20:37. I feel drunk for some reasons. Well, fuck all of you. I typed out the level.
+There are some bugs. I can FLY during STP. Battletoads are white. Spawning stops.
+Well, you know what? I'm done for today. Fuck you. I'm out.

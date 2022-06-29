@@ -1,0 +1,21 @@
+ei ill just finish the stuff from yesterday and draw a lil if its alrite
+i don't to need to think about sprite placement. yet. i labeled half of them.
+I'll just move on to SDRB.
+Actually, let's do the speed first. It's too easy.
+Solution 1: halve the speed instead.
+it sucks.
+Solution 2: roll back to rollback, BUT for the duration of RB vector-stick to Kalim
+Wow. I think I actually created a ground for a FUN mechanic. I thought I'd never see the day.
+
+Okay, NOW do the spe- 
+I don't remember when exactly I went astray. AM I THAT UNFOCUSED?
+JUST GET IT OVER WITH.
+I've just realized it's been this way all along.
+Buuuut it doesn't work in practice because of the low Push speed. Guess I can fix that.
+
+23:26. I was hoping not to spend this much time on such trivial matters. Oh well.
+If I fine-tune the hitboxes and imbue the pushdir with intelligence, I'll have a miracle on my hands.
+I'll do some writing. Tomorrow is going to be quite something. 
+I probably won't get to draw for a couple of days, though. Oh well.
+The distance makes the heart grow fonder.
+I should also take more care of my body. Just a thought.

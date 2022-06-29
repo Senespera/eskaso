@@ -1,0 +1,23 @@
+16:15. Worked for about an hour.
+No, I was not COMPLETELY slacking off. I was doing music and spritework.
+Now I'm trying to figure oout how to make Heavenscraper and walls rotate consistently.
+Mind you, I am yet to draw DD, Urumagh, Wrath, the final building and Stage screen, come up with new Superstitions,
+and actually design the level.
+Not to mention, I really want to remake the track and I have to learn to implement data gathering.
+Work for ~ 2 weeks cut out for me, I guess.
+
+heavenscraper should be front and center at frame 116 at 30(?)fps,
+which means it's travelling at 3.8(6) pixels per... step? Let's test it.
+Nope. Per second, then? Multiplying by 60...
+Clearly not. I'm obviously wrong and I don't know why. 
+30 doesn't cut it, either. Or maybe my starting point is wrong?
+It should start at frame 103 and end at frame 129.
+So... at a speed of 116 pixels per frame to be at 0 at frame 116... negative 116^2?
+It's... consistent, but off. Cutting the speed... in half...? I'm just grasping at straws here.
+Not quite. change distance to 116*116*2 instead?
+Flies by too fast. changing the speed back to 58 and distance to 116^2.
+Now to do what I do best. Spitballing the numbers till it's close enough.
+-12000 is close enough. Now to attach walls and... go back to spritework?
+Walls disappear. Which means I have to make heavenscraper go faster. Which means I have to put it further away.
+Say... 70 and -12500? -13000? -14000? -14750?
+16:53. Done. Now onto the spritework. I want to try out Dota 2 today, too.

@@ -1,0 +1,16 @@
+Not to forget - STAGE COMPLETE and EAF tutorial. And longer invulnerability. And OPF tutorial.
+Thinking about how to even do EAF tutorial. Whatever, this is a problem for future Senespera.
+
+Okay, how do I only spawn highlight once and have the time frozen while it's on? 
+Well, maybe the latter is actually easy.
+
+O-kay. I did the BP/CP tutorial. I choose to extend invulnerability now.
+Checking invulnerability. Also testing Urumagh's lower speed. Seem to work.
+
+Now to remove static and implement OPF tutorial. I'll come around to EAF eventually.
+Static removed. Wowie. Now to the more intricate part. How do I do this?
+I'll just pause the game and have "TRY THIS" written under the pentagram after 3 game overs.
+Sounds easy enough.
+Oh, and before I forget - color EAF boost as well
+Wow, worked like a charm. Now to recolor and... that's it? Reupload and start marketing?
+Okay, I'll do that I GUESS. To twitter I go... Wowie...
